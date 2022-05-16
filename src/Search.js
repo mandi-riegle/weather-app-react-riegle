@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import "./Weather.css";
-import "./styles.css";
+import "./Weather.css";
 
 export default function Search() {
   const [city, setCity] = useState("");
