@@ -5,9 +5,20 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+   background: url("/src/weather.jpg") no-repeat center center fixed;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  font-family: 'Poppins', sans-serif;
 }
+
+a:link, a:visited,  a:hover, a:active{
+  color: white;
+  text-decoration-color: white;
+}
+
+footer{
+  color: white;
+  text-decoration: white;
+}
+

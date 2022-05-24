@@ -8,7 +8,7 @@ export default function App() {
       <div className="container">
         <Weather defaultCity="New York" />
 
-        <footer>
+        <footer color = "white">
           This project was coded by{" "}
           <a
             href="https://amandariegle.netlify.app/"
